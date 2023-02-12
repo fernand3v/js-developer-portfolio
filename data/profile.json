@@ -1,78 +1,82 @@
 {
-  "name": "Renan J Paula",
+  "name": "Fernando de Quadros",
   "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "job": "Técnico de Suporte",
+  "location": "Balneário Camboriú - SC",
+  "phone": "(47) **682-810*",
+  "email": "fernandodequadros@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Postgresql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Interesse e comprometimento",
+      "Facilidade de aprendizado",
+      "Bom relacionamento interpessoal",
+      "Facilidade de trabalho em equipe"
     ]
   },
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Aplicação web para realizar o cadastro de itens usando LocalStorage",
+      "url": "https://github.com/fernand3v/desafio-vaga-programador",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto criado no bootcamp Órbi Web Games Developer em parceria com a Digital Innovation One",
+      "url": "https://github.com/fernand3v/jogo-da-veia",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Técnico de Suporte / Fundação Universidade do Vale do Itajaí",
+      "period": "2018 - até o momento",
+      "description": "Suporte aos usuários em relação a utilização correta dos computadores, impressoras e afins.
+                      Atendimento de chamados via sistema, telefone, acesso remoto ou in-loco.
+                      Instalação e configuração de softwares e drivers conforme solicitação via chamado e
+                      autorização prévia dos responsáveis.
+                      Download de imagem contendo sistema operacional e programas conforme laboratório
+                      ou setor da instituição.
+                      Ativação de programas via chave serial ou configurações via servidor.
+                      Atendimento de primeiro nível a impressoras e scanners e encaminhamento à técnico
+                      especializado conforme necessidade.
+                      Instalação, configuração e manutenção de projetores em salas de aula e laboratórios.
+                      Dentre outras atividades."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Assistente de TI / Dicave Gartner Distribuidora Catarinense de Veículos",
+      "period": "2017 - 2018",
+      "description": "Suporte aos Sistemas usados pela Dicave (Sistemas internos e sistemas da Volvo)."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Auxiliar Administrativo / Fundação Universidade de Passo Fundo",
+      "period": "2012 - 2015",
+      "description": "Adaptação de materiais para alunos com necessidades especiais."
     }
   ]
 }
